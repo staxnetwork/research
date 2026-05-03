@@ -28,6 +28,7 @@ private) repository — see [stax.network](https://stax.network) for context.
   framing that bypasses the canonical-label distribution problem entirely
   and collapses the on-chain forcing pipeline. Currently open for
   cryptographer review (§7 lists 7 questions).
+  Discussion: [ethresear.ch thread](https://ethresear.ch/t/tee-as-verifier-for-bitvm-style-bridges-collapsing-the-canonical-label-distribution-problem/24783).
 
 ## Status
 
