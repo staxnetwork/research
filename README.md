@@ -9,6 +9,10 @@ private) repository — see [stax.network](https://stax.network) for context.
 
 ## Documents
 
+- **[TESTNET.md](TESTNET.md)** — operational record of the bridge's
+  defence mechanisms exercised end-to-end on Stax signet (equivocation,
+  DisprovalTx, Celestia DA strict-mode refusal, honest deposit/mint).
+
 - **[forcing_mechanism_design.md](docs/forcing_mechanism_design.md)** —
   Σ-protocol forcing candidates for fixed-lie defence in BitVM-style
   bridges. §10 documents why all on-chain forcing variants we examined
